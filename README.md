@@ -9,11 +9,11 @@
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
   <samp>
-    🎓 Currently studying at <b>1337 Coding School</b> (42 Network)<br>
-    💻 Passionate about software engineering and problem-solving<br>
-    🌱 Always eager to learn new technologies and frameworks<br>
-    📫 Reach me at: loukmane.serghini@gmail.com<br>
-    😄 Also known as: Lokito
+  <strong> 🎓 Currently studying at **1337 Coding School** (42 Network)</strong><br>
+  <strong> 💻 Passionate about software engineering and problem-solving</strong><br>
+  <strong> 🌱 Always eager to learn new technologies and frameworks</strong><br>
+  <strong> 📫 Reach me at: loukmane.serghini@gmail.com</strong><br>
+  <strong> 😄 Also known as: Lokito</strong>
   </samp>
 </p>
 
