@@ -1,7 +1,7 @@
 # Hello, I'm Loukmane Serghini 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FF00&height=200&section=header&text=Loukmane%20Serghini&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20at%201337%20Coding%20School&descAlignY=55&descAlign=50&descSize=20&descColor=00FF00" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00FF00,100:0000FF&height=200&section=header&text=Loukmane%20Serghini&fontSize=60&fontColor=FFFFFF&animation=scale&fontAlignY=38&desc=Software%20Engineering%20Student%20at%201337%20Coding%20School&descAlignY=55&descAlign=50&descSize=20&descColor=00FF00" width="100%" />
 </div>
 
 <div align="center" style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
