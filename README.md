@@ -59,7 +59,7 @@
       <h3 align="center">🔥 Contribution Streak</h3>
       <p align="center">
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=lserghin&theme=radical" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com/?user=lserghin&theme=radical&background=000000&dates=FFFFFF&ring=00FFFF&fire=00FFFF&current streak label=Current Streak&longest streak label=Longest Streak" alt="GitHub Streak" />
         </a>
       </p>
     </td>
