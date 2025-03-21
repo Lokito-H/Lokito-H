@@ -59,7 +59,7 @@
       <h3 align="center">🔥 Coding Activity</h3>
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lserghin&theme=radical&layout=compact" alt="WakaTime Stats" />
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lokito-H&theme=radical&layout=compact" alt="WakaTime Stats" />
         </a>
       </p>
     </td>
@@ -68,12 +68,12 @@
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lserghin&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokito-H&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lserghin&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lokito-H&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ## Projects
