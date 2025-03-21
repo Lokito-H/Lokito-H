@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Matrix+Code+NFI&size=25&duration=1&pause=1&color=2BF723&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=010101+Loukmane+Serghini+010101;101+Software+Engineering+Student+101;00+1337+Coding+School+00;11010+Always+learning+new+things+01011" alt="Matrix Code Header" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Loukmane%20Serghini&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20at%201337%20Coding%20School&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
