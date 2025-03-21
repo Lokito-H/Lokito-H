@@ -27,7 +27,6 @@
 </p>
 
 <h2 align="center">📊 42 Stats & GitHub Activity</h2>
-## 42 Stats & GitHub Activity
 <table>
   <tr>
     <td width="50%">
