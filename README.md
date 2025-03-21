@@ -1,7 +1,7 @@
 # Hello, I'm Loukmane Serghini 👋
 
-<div align="center" style="width: 200%; display: flex; justify-content: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BF723&width=435&lines=Software+Engineering+Student;1337+Coding+School;Always+learning+new+things" alt="Typing SVG" />
+<div align="center" style="width: 100%; display: flex; justify-content: flex-end; padding-right: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BF723&width=600&lines=Software+Engineering+Student;1337+Coding+School;Always+learning+new+things" alt="Typing SVG" style="width: 600px;" />
 </div>
 
 ## About Me
