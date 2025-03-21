@@ -66,6 +66,11 @@
   </tr>
 </table>
 
+<h2 align="center">🐍 Snake Eating My Contributions</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lokito-H/Lokito-H/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokito-H&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
