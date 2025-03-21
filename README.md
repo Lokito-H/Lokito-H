@@ -67,9 +67,9 @@
 </table>
 
 <div align="center">
-<a align="center">
-  <img src="https://raw.githubusercontent.com/Lokito-H/Lokito-H/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokito-H&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+  </a>
 </div>
 
 <div align="center">
