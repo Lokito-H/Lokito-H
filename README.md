@@ -1,28 +1,8 @@
 # Hello, I'm Loukmane Serghini 👋
 
-<div align="center" style="position: relative; overflow: hidden; height: 200px; background-color: black;">
-  <!-- Falling code animation -->
-  <div style="position: absolute; top: -100%; left: 0; width: 100%; height: 100%; animation: fall 10s linear infinite;">
-    <pre style="color: #00FF00; font-family: 'Courier New', monospace; font-size: 16px; line-height: 1.2;">
-      01010100 01101000 01100101 00100000 01000011 01101111 01100100 01100101 00100000 01001001 01110011 00100000 01010000 01101111 01100101 01110100 01110010 01111001 00100001
-      01101000 01100001 01100011 01101011 00100000 01110100 01101000 01100101 00100000 01110000 01101100 01100001 01101110 01100101 01110100 00100001
-      01101000 01100101 01101100 01101100 01101111 00100000 01110111 01101111 01110010 01101100 01100100 00100001
-    </pre>
-  </div>
-
-  <!-- Capsule text overlay -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <h1 style="color: #00FF00; font-size: 60px; font-family: 'Courier New', monospace; margin: 0;">Loukmane Serghini</h1>
-    <p style="color: #00FF00; font-size: 20px; font-family: 'Courier New', monospace; margin: 10px 0 0;">Software Engineering Student at 1337 Coding School</p>
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7ee7f7&height=200&section=header&text=Loukmane%20Serghini&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20at%201337%20Coding%20School&descAlignY=55&descAlign=50" width="100%" />
 </div>
-
-<style>
-  @keyframes fall {
-    0% { top: -100%; }
-    100% { top: 100%; }
-  }
-</style>
 
 <div align="center" style="width: 100%; display: flex; justify-content: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2BF723&width=600&lines=Software+Engineering+Student;1337+Coding+School;Always+learning+new+things" alt="Typing SVG" />
