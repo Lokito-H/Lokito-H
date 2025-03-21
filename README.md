@@ -1,4 +1,4 @@
-## 👋 Hi there its me "Loukmane Serghini".
+## 👋 Hi there its me "Serghini Loukmane".
 
 -> 🔭 I’m currently studtying at 1337 coding school.
 
@@ -6,8 +6,16 @@
 
 -> 📫 How to reach me: loukmane.serghini@gmail.com
 
--> 😄 Pronouns: Lokito
+-> 😄 Pronouns: Lokito.
 
 -> 🧑‍💻 My 42-profile stats
 
-[![lserghin's 42 stats](https://badge.mediaplus.ma/greenbinary/lserghin)](https://github.com/oakoudad/badge42)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/greenbinary/lserghin" alt="🧑‍💻 My 42-profile stats">
+      </a>
+    </td>
+  </tr>
+</table>
