@@ -73,9 +73,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokito-H&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-  </a>
+    ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 <div align="center">
