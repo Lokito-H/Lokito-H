@@ -41,7 +41,7 @@
       <h3 align="center">⚡ GitHub Stats</h3>
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=lserghin&show_icons=true&theme=radical" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Lokito-H&show_icons=true&theme=radical" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -51,15 +51,15 @@
       <h3 align="center">💻 Most Used Languages</h3>
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lserghin&layout=compact&theme=radical" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokito-H&layout=compact&theme=radical" alt="Top Languages" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔥 Coding Activity</h3>
+      <h3 align="center">🔥 Contribution Streak</h3>
       <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lokito-H&theme=radical&layout=compact" alt="WakaTime Stats" />
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokito-H&theme=radical" alt="GitHub Streak" />
         </a>
       </p>
     </td>
@@ -81,23 +81,23 @@
   <summary>📁 Featured Projects</summary>
   <br>
   
-  <a href="https://github.com/lserghin/LIBFT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=LIBFT&theme=radical" />
+  <a href="https://github.com/Lokito-H/LIBFT">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokito-H&repo=LIBFT&theme=radical" />
   </a>
-  <a href="https://github.com/lserghin/FT_PRINTF">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=FT_PRINTF&theme=radical" />
+  <a href="https://github.com/Lokito-H/FT_PRINTF">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokito-H&repo=FT_PRINTF&theme=radical" />
   </a>
-  <a href="https://github.com/lserghin/GET_NEXT_LINE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=GET_NEXT_LINE&theme=radical" />
+  <a href="https://github.com/Lokito-H/GET_NEXT_LINE">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokito-H&repo=GET_NEXT_LINE&theme=radical" />
   </a>
-  <a href="https://github.com/lserghin/MINITALK">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=MINITALK&theme=radical" />
+  <a href="https://github.com/Lokito-H/MINITALK">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokito-H&repo=MINITALK&theme=radical" />
   </a>
-  <a href="https://github.com/lserghin/SO_LONG">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=SO_LONG&theme=radical" />
+  <a href="https://github.com/Lokito-H/SO_LONG">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokito-H&repo=SO_LONG&theme=radical" />
   </a>
-  <a href="https://github.com/lserghin/PUSH_SWAP">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=PUSH_SWAP&theme=radical" />
+  <a href="https://github.com/Lokito-H/PUSH_SWAP">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokito-H&repo=PUSH_SWAP&theme=radical" />
   </a>
 </details>
 
@@ -115,7 +115,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lserghin&color=green" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Lokito-H&color=green" alt="Profile Views"/>
 </div>
 
 <div align="center">
