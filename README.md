@@ -1,27 +1,12 @@
 # Hello, I'm Loukmane Serghini 👋
 
-<div align="center" style="background-color: black; padding: 20px;">
-  <!-- Falling green characters animation -->
-  <div style="position: relative; overflow: hidden; height: 200px;">
-    <div style="position: absolute; top: -100%; left: 0; width: 100%; height: 100%; background: linear-gradient(transparent, #00FF00); animation: fall 5s linear infinite;">
-      <pre style="color: #00FF00; font-family: 'Courier New', monospace; font-size: 16px; line-height: 1.2;">
-        01010100 01101000 01100101 00100000 01000011 01101111 01100100 01100101 00100000 01001001 01110011 00100000 01010000 01101111 01100101 01110100 01110010 01111001 00100001
-      </pre>
-    </div>
-  </div>
-
-  <!-- Typing SVG with green text -->
-  <div style="margin-top: 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=1000&color=00FF00&width=600&lines=Software+Engineering+Student;1337+Coding+School;Always+learning+new+things;Code%20is%20Poetry%20%F0%9F%8E%A8" alt="Typing SVG" />
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Loukmane%20Serghini&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20at%201337%20Coding%20School&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
-<style>
-  @keyframes fall {
-    0% { top: -100%; }
-    100% { top: 100%; }
-  }
-</style>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7ee7f7&width=600&lines=Software+Engineering+Student;1337+Coding+School;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
 ## About Me
 - 🎓 Currently studying at **1337 Coding School** (42 Network)
