@@ -27,51 +27,72 @@
 </p>
 
 <h2 align="center">📊 42 Stats & GitHub Activity</h2>
-<div align="center">
-  <img width="800" src="https://badge.mediaplus.ma/greenbinary/lserghin" alt="lserghin's 42 stats" />
-</div>
+## 42 Stats & GitHub Activity
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧑‍💻 My 42 Profile</h3>
+      <p align="center">
+        <a href="https://github.com/oakoudad/badge42">
+          <img src="https://badge.mediaplus.ma/greenbinary/lserghin" alt="lserghin's 42 stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ GitHub Stats</h3>
+      <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=lserghin&show_icons=true&theme=radical" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💻 Most Used Languages</h3>
+      <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lserghin&layout=compact&theme=radical" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔥 Contribution Streak</h3>
+      <p align="center">
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=lserghin&theme=radical" alt="GitHub Streak" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lserghin&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lserghin&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lserghin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="70%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">📁 Featured Projects</h2>
-<div align="center">
+## Projects
+<details>
+  <summary>📁 Featured Projects</summary>
+  <br>
+  
   <a href="https://github.com/lserghin/LIBFT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=LIBFT&theme=radical&hide_border=true" width="45%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=LIBFT&theme=radical" />
   </a>
   <a href="https://github.com/lserghin/FT_PRINTF">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=FT_PRINTF&theme=radical&hide_border=true" width="45%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=FT_PRINTF&theme=radical" />
   </a>
   <a href="https://github.com/lserghin/GET_NEXT_LINE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=GET_NEXT_LINE&theme=radical&hide_border=true" width="45%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=GET_NEXT_LINE&theme=radical" />
   </a>
   <a href="https://github.com/lserghin/MINITALK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=MINITALK&theme=radical&hide_border=true" width="45%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=MINITALK&theme=radical" />
   </a>
   <a href="https://github.com/lserghin/SO_LONG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=SO_LONG&theme=radical&hide_border=true" width="45%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=SO_LONG&theme=radical" />
   </a>
   <a href="https://github.com/lserghin/PUSH_SWAP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=PUSH_SWAP&theme=radical&hide_border=true" width="45%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=PUSH_SWAP&theme=radical" />
   </a>
-</div>
+</details>
 
-<h2 align="center">🔗 Connect With Me</h2>
+## Connect With Me
 <p align="center">
   <a href="https://x.com/LookmanSER">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
@@ -85,9 +106,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lserghin&color=green&style=for-the-badge" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=lserghin&color=green" alt="Profile Views"/>
 </div>
