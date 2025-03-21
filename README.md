@@ -66,10 +66,11 @@
   </tr>
 </table>
 
-<h2 align="center">🐍 Snake Eating My Contributions</h2>
-<p align="center">
+<div align="center">
+<a align="center">
   <img src="https://raw.githubusercontent.com/Lokito-H/Lokito-H/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
+</a>
+</div>
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
