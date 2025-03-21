@@ -8,13 +8,14 @@
 
 -> 😄 Pronouns: Lokito.
 
--> 🧑‍💻 My 42-profile stats
-
 <table>
+  <tr>
+    <th>🧑‍💻 My 42-profile stats</th>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/oakoudad/badge42">
-        <img src="https://badge.mediaplus.ma/greenbinary/lserghin" alt="🧑‍💻 My 42-profile stats">
+        <img src="https://badge.mediaplus.ma/greenbinary/lserghin" alt="lserghin's 42 stats">
       </a>
     </td>
   </tr>
