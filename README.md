@@ -1,7 +1,6 @@
-
 # Hello, I'm Loukmane Serghini 👋
 
-<div align="center">
+<div align="center" style="width: 100%; display: flex; justify-content: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BF723&width=435&lines=Software+Engineering+Student;1337+Coding+School;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
@@ -66,11 +65,23 @@
   <summary>📁 Featured Projects</summary>
   <br>
   
-  <a href="https://github.com/lserghin/minishell">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=minishell&theme=radical" />
+  <a href="https://github.com/lserghin/LIBFT">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=LIBFT&theme=radical" />
   </a>
-  <a href="https://github.com/lserghin/cub3d">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=cub3d&theme=radical" />
+  <a href="https://github.com/lserghin/FT_PRINTF">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=FT_PRINTF&theme=radical" />
+  </a>
+  <a href="https://github.com/lserghin/GET_NEXT_LINE">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=GET_NEXT_LINE&theme=radical" />
+  </a>
+  <a href="https://github.com/lserghin/MINITALK">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=MINITALK&theme=radical" />
+  </a>
+  <a href="https://github.com/lserghin/SO_LONG">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=SO_LONG&theme=radical" />
+  </a>
+  <a href="https://github.com/lserghin/PUSH_SWAP">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lserghin&repo=PUSH_SWAP&theme=radical" />
   </a>
 </details>
 
