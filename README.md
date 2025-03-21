@@ -73,10 +73,6 @@
 </div>
 
 <div align="center">
-    ![snake gif](https://github.com/YOUR_USERNAME/Lokito-H/blob/output/github-contribution-grid-snake.gif)
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lokito-H&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
