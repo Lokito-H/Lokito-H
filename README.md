@@ -56,15 +56,25 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔥 Contribution Streak</h3>
+      <h3 align="center">🔥 Coding Activity</h3>
       <p align="center">
-        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=lserghin&theme=radical&background=000000&dates=FFFFFF&ring=00FFFF&fire=00FFFF&current streak label=Current Streak&longest streak label=Longest Streak" alt="GitHub Streak" />
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lserghin&theme=radical&layout=compact" alt="WakaTime Stats" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lserghin&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lserghin&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ## Projects
 <details>
