@@ -99,6 +99,9 @@
   <a href="https://github.com/Lokito-H/PUSH_SWAP">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokito-H&repo=PUSH_SWAP&theme=radical" />
   </a>
+  <a href="https://github.com/Lokito-H/PHILOSOPHERS">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokito-H&repo=PHILOSOPHERS&theme=radical" />
+  </a>
 </details>
 
 ## Connect With Me
