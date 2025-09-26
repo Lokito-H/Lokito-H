@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lokito's 3D Showcase | Interactive Portfolio</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>🎯 Lokito's 3D Showcase</h1>
+                    <p>Interactive 3D Portfolio & Model Viewer</p>
+                </div>
+                <nav class="nav">
+                    <a href="https://github.com/Lokito-H" target="_blank" class="nav-link">GitHub</a>
+                    <a href="https://www.linkedin.com/in/loukmane-serghini-860a49357/" target="_blank" class="nav-link">LinkedIn</a>
+                    <a href="#about" class="nav-link">About</a>
+                </nav>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- 3D Viewer Section -->
+            <section class="viewer-section">
+                <div class="viewer-container">
+                    <canvas id="canvas3d"></canvas>
+                    
+                    <!-- Loading Screen -->
+                    <div id="loading-screen" class="loading-screen">
+                        <div class="loading-spinner"></div>
+                        <p>Loading 3D Models...</p>
+                    </div>
+
+                    <!-- Viewer Controls -->
+                    <div class="viewer-controls">
+                        <div class="control-panel">
+                            <h3>🎮 Controls</h3>
+                            
+                            <!-- Model Selection -->
+                            <div class="control-group">
+                                <label>3D Model:</label>
+                                <select id="model-selector" class="control-select">
+                                    <option value="cube">Animated Cube</option>
+                                    <option value="sphere">Dynamic Sphere</option>
+                                    <option value="torus">Rotating Torus</option>
+                                    <option value="icosahedron">Icosahedron</option>
+                                    <option value="dodecahedron">Dodecahedron</option>
+                                    <option value="tetrahedron">Tetrahedron</option>
+                                </select>
+                            </div>
+
+                            <!-- Animation Controls -->
+                            <div class="control-group">
+                                <label>Animation:</label>
+                                <button id="play-pause-btn" class="control-btn">⏸️ Pause</button>
+                                <button id="reset-btn" class="control-btn">🔄 Reset</button>
+                            </div>
+
+                            <!-- Rotation Controls -->
+                            <div class="control-group">
+                                <label>Rotation Speed:</label>
+                                <input type="range" id="rotation-speed" min="0" max="5" step="0.1" value="1" class="control-slider">
+                                <span id="speed-value">1.0x</span>
+                            </div>
+
+                            <!-- Scale Controls -->
+                            <div class="control-group">
+                                <label>Scale:</label>
+                                <input type="range" id="scale-slider" min="0.5" max="3" step="0.1" value="1" class="control-slider">
+                                <span id="scale-value">1.0x</span>
+                            </div>
+
+                            <!-- Color Controls -->
+                            <div class="control-group">
+                                <label>Color:</label>
+                                <input type="color" id="color-picker" value="#00ff88" class="control-color">
+                                <button id="random-color-btn" class="control-btn">🎨 Random</button>
+                            </div>
+
+                            <!-- Lighting Controls -->
+                            <div class="control-group">
+                                <label>Lighting:</label>
+                                <input type="range" id="light-intensity" min="0.1" max="3" step="0.1" value="1" class="control-slider">
+                                <span id="light-value">1.0x</span>
+                            </div>
+
+                            <!-- Wireframe Toggle -->
+                            <div class="control-group">
+                                <label>
+                                    <input type="checkbox" id="wireframe-toggle" class="control-checkbox">
+                                    Wireframe Mode
+                                </label>
+                            </div>
+
+                            <!-- Auto-Rotate Toggle -->
+                            <div class="control-group">
+                                <label>
+                                    <input type="checkbox" id="auto-rotate-toggle" checked class="control-checkbox">
+                                    Auto Rotate
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Info Panel -->
+                    <div class="info-panel">
+                        <div class="info-content">
+                            <h3>📊 Model Info</h3>
+                            <div id="model-info">
+                                <p><strong>Current Model:</strong> <span id="current-model">Animated Cube</span></p>
+                                <p><strong>Vertices:</strong> <span id="vertex-count">8</span></p>
+                                <p><strong>Faces:</strong> <span id="face-count">6</span></p>
+                                <p><strong>FPS:</strong> <span id="fps-counter">60</span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Instructions Section -->
+            <section class="instructions-section">
+                <div class="instructions-content">
+                    <h2>🎯 How to Use</h2>
+                    <div class="instruction-grid">
+                        <div class="instruction-item">
+                            <div class="instruction-icon">🖱️</div>
+                            <h3>Mouse Controls</h3>
+                            <p>Left click and drag to rotate the camera around the model</p>
+                        </div>
+                        <div class="instruction-item">
+                            <div class="instruction-icon">🔍</div>
+                            <h3>Zoom</h3>
+                            <p>Use mouse wheel to zoom in and out of the 3D scene</p>
+                        </div>
+                        <div class="instruction-item">
+                            <div class="instruction-icon">🎮</div>
+                            <h3>Controls</h3>
+                            <p>Use the control panel to modify model properties and animations</p>
+                        </div>
+                        <div class="instruction-item">
+                            <div class="instruction-icon">📱</div>
+                            <h3>Touch Support</h3>
+                            <p>On mobile devices, use touch gestures to interact with the model</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- About Section -->
+            <section id="about" class="about-section">
+                <div class="about-content">
+                    <h2>👨‍💻 About This Project</h2>
+                    <p>This interactive 3D showcase demonstrates modern web technologies including Three.js, WebGL, and responsive design. Built with performance and user experience in mind, it provides an engaging way to explore 3D models with extensive customization options.</p>
+                    
+                    <div class="tech-stack">
+                        <h3>🛠️ Technologies Used</h3>
+                        <div class="tech-badges">
+                            <span class="tech-badge">Three.js</span>
+                            <span class="tech-badge">WebGL</span>
+                            <span class="tech-badge">JavaScript ES6+</span>
+                            <span class="tech-badge">CSS3</span>
+                            <span class="tech-badge">HTML5</span>
+                        </div>
+                    </div>
+
+                    <div class="features">
+                        <h3>✨ Features</h3>
+                        <ul>
+                            <li>Interactive 3D model viewer with multiple geometry types</li>
+                            <li>Real-time lighting and material controls</li>
+                            <li>Smooth animations and transitions</li>
+                            <li>Mobile-responsive design with touch support</li>
+                            <li>Performance monitoring with FPS counter</li>
+                            <li>Wireframe mode for technical visualization</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <p>&copy; 2024 Loukmane Serghini | Built with ❤️ and Three.js</p>
+                <div class="social-links">
+                    <a href="https://github.com/Lokito-H" target="_blank">GitHub</a>
+                    <a href="https://www.linkedin.com/in/loukmane-serghini-860a49357/" target="_blank">LinkedIn</a>
+                    <a href="mailto:loukmane.serghini@gmail.com">Email</a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <script>
+        // Fallback for CDN blocking
+        if (typeof THREE === 'undefined') {
+            console.log('Loading local Three.js fallback...');
+            document.write('<script src="local-three.js"><\/script>');
+        }
+    </script>
+    <script src="script.js"></script>
+</body>
+</html>
