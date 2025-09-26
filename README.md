@@ -3,8 +3,17 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2BF723&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;1337+Coding+School;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2BF723&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;1337+Coding+School;Always+learning+new+things;3D+Web+Developer" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <a href="https://lokito-h.github.io/Lokito-H/" target="_blank">
+    <img src="https://img.shields.io/badge/🎯_3D_Showcase-Live_Demo-00ff88?style=for-the-badge&logo=threedotjs&logoColor=white" alt="3D Showcase"/>
+  </a>
+  <a href="https://lokito-h.github.io/Lokito-H/" target="_blank">
+    <img src="https://img.shields.io/badge/Interactive-3D_Models-ff0066?style=for-the-badge&logo=webgl&logoColor=white" alt="Interactive 3D"/>
+  </a>
+</div>
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
@@ -21,10 +30,40 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+<h2 align="center">🎯 3D Interactive Showcase</h2>
+<div align="center">
+  <p>🌟 <strong>New!</strong> Check out my interactive 3D web application featuring multiple 3D models with extensive user controls!</p>
+  
+  <a href="https://lokito-h.github.io/Lokito-H/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_Launch_3D_App-Click_Here-00ff88?style=for-the-badge&labelColor=0d1117&logo=threedotjs" alt="Launch 3D App" />
+  </a>
+  
+  <br><br>
+  
+  <details>
+    <summary>🎯 3D Showcase Features</summary>
+    <br>
+    <ul align="left">
+      <li>🔸 <strong>Interactive 3D Models:</strong> Cube, Sphere, Torus, Icosahedron, Dodecahedron, Tetrahedron</li>
+      <li>🔸 <strong>Real-time Controls:</strong> Rotation speed, scaling, color picker, lighting intensity</li>
+      <li>🔸 <strong>Visual Modes:</strong> Standard materials and wireframe mode</li>
+      <li>🔸 <strong>Smooth Animations:</strong> Auto-rotation with play/pause controls</li>
+      <li>🔸 <strong>Mobile Responsive:</strong> Touch controls for mobile devices</li>
+      <li>🔸 <strong>Performance Monitoring:</strong> FPS counter and model statistics</li>
+      <li>🔸 <strong>Modern UI:</strong> Dark theme with gradient accents</li>
+    </ul>
+  </details>
+</div>
 
 <h2 align="center">📊 42 Stats & GitHub Activity</h2>
 <table>
@@ -79,6 +118,14 @@
 ## Projects
 <details>
   <summary>📁 Featured Projects</summary>
+  <br>
+  
+  <div align="center">
+    <a href="https://lokito-h.github.io/Lokito-H/" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lokito-H&repo=Lokito-H&theme=radical&description_lines_count=3&show_description=true" />
+    </a>
+  </div>
+  
   <br>
   
   <a href="https://github.com/Lokito-H/LIBFT">

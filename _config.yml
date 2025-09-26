@@ -1,0 +1,33 @@
+theme: jekyll-theme-minimal
+title: Lokito's 3D Showcase
+description: Interactive 3D Portfolio & Model Viewer
+show_downloads: false
+google_analytics: 
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# GitHub Pages settings
+url: "https://Lokito-H.github.io"
+baseurl: "/Lokito-H"
+
+# Social links
+github_username: Lokito-H
+linkedin_username: loukmane-serghini-860a49357
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+sass:
+  style: compressed
+
+# Include files
+include:
+  - _pages
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
