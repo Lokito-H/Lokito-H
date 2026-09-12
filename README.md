@@ -16,6 +16,14 @@ I like the parts you don't see on the screen: how memory is managed, how threads
 
 I care about the interface, too. Building a feature is one part of the job; making it clear and comfortable to use is another part I want to get better at.
 
+<p align="center">
+  <a href="https://profile.intra.42.fr/users/lserghin">
+    <img src="https://badge.mediaplus.ma/darkgray/lserghin" width="460" alt="lserghin's 1337 / 42 cursus card, showing level and progress" />
+  </a>
+  <br />
+  <sub>My 1337 journey · <a href="https://github.com/oakoudad/badge42">42 badge</a></sub>
+</p>
+
 <img src="./assets/section-work.svg" width="100%" alt="02 — Selected work" />
 
 A few public projects from my time at 1337. Each explores a different part of the fundamentals.
