@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.jpg" width="360" alt="LokitoH's personal logo: a black angular mark inside a cream circle" />
-</p>
-
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Loukmane Serghini · LokitoH — Systems programming, game development, and developer tools. Student at 1337, 42 Network." />
+  <img src="./assets/banner.svg" width="100%" alt="Loukmane Serghini · LokitoH — C, C++ and the craft of building software. Original LokitoH logo recreated in SVG with a dimensional mint finish." />
 </p>
 
 <p align="center">
