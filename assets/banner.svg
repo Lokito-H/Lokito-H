@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Loukmane Serghini — LokitoH</title>
+  <desc id="desc">A graphite and mint banner with a geometric L monogram. C, C++ and the craft of building software.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10191F"/><stop offset="1" stop-color="#091015"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="865" y1="96" x2="1040" y2="256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B8F8DA"/><stop offset="1" stop-color="#6ACAA6"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#22343D" stroke-opacity=".46"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="360" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect x="780" width="420" height="360" fill="url(#grid)"/>
+    <path d="M0 359H1200" stroke="#304B46"/>
+    <rect x="48" y="48" width="28" height="3" rx="1.5" fill="#9BE9C7"/>
+    <text x="90" y="55" font-family="DejaVu Sans Mono,monospace" font-size="15" letter-spacing="3" fill="#9BE9C7">LOKITOH</text>
+    <text x="48" y="146" font-family="DejaVu Sans,Arial,sans-serif" font-size="55" font-weight="700" letter-spacing="-2" fill="#F0F5F3">Loukmane Serghini</text>
+    <text x="50" y="190" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" fill="#A4B7BE">C, C++ and the craft of building software.</text>
+    <path d="M50 233H732" stroke="#293A42"/>
+    <text x="50" y="276" font-family="DejaVu Sans Mono,monospace" font-size="15" letter-spacing="1" fill="#D4E2E3">SYSTEMS</text>
+    <circle cx="147" cy="271" r="2" fill="#6EA58F"/>
+    <text x="167" y="276" font-family="DejaVu Sans Mono,monospace" font-size="15" letter-spacing="1" fill="#D4E2E3">GRAPHICS</text>
+    <circle cx="274" cy="271" r="2" fill="#6EA58F"/>
+    <text x="294" y="276" font-family="DejaVu Sans Mono,monospace" font-size="15" letter-spacing="1" fill="#D4E2E3">DEVELOPER TOOLS</text>
+    <g stroke="#45675E" stroke-width="1">
+      <rect x="848" y="72" width="248" height="216" rx="2" stroke-dasharray="4 6"/>
+      <path d="M836 72H860M848 60V84M1084 72H1108M1096 60V84M836 288H860M848 276V300M1084 288H1108M1096 276V300"/>
+    </g>
+    <path d="M881 99H929V213H1055V261H881V99Z" fill="url(#mark)"/>
+    <path d="M945 99H993V165H1055V197H945V99Z" fill="#203D36" stroke="#5D9D86"/>
+    <path d="M901 120V239H1035" stroke="#E3FFF0" stroke-opacity=".48" stroke-width="1.5"/>
+    <text x="970" y="326" text-anchor="middle" font-family="DejaVu Sans Mono,monospace" font-size="11" letter-spacing="3" fill="#7B9D93">BUILD / UNDERSTAND</text>
+  </g>
+</svg>
